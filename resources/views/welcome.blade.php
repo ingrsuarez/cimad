@@ -127,15 +127,17 @@
             </div>
         </div> 
         
-        <div class="relative w-screen h-[600px] flex bg-gray-200 items-center justify-center animate-[fadein_2s_ease-in_1]">
-            <div class="relative px-4 py-3 lg:w-2/5 bg-gray-100/50 rounded-lg">
-                <h2 class="font-bold text-xl">CIMAD Laboral, una nueva propuesta dentro de este centro especializado y gran trayectoria en la ciudad.</h2>
-
+        <div class="w-screen h-[800px] flex flex-col md:flex-row bg-gray-200 items-start animate-[fadein_2s_ease-in_1]">
+            <div class="relative px-4 mx-4 md:ml-8 mt-8 py-3 lg:w-2/5 bg-gray-100/50 rounded-lg">
+                <h2 class="font-bold text-xl">MÉDICO EN PLANTA</h2>
+                <br>
 
                 <p>- Nos especializamos en accidentologia  y medicina laboral.</p>
                 <p>- Brindamos soluciones integrales para el cuidado de la salud de los trabajadores.</p>  
                 <p>- Abarcando todas las especialidades y  necesidades para la atención del capital humano de nuestros clientes.</p>
+                
             </div>
+            <img class=" rounded-md md:w-2/5 mt-8" src="{{asset('img/trabajadores02.png')}}" alt="">
         </div>
     
         
