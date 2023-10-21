@@ -127,7 +127,7 @@
             </div>
         </div> 
         
-        <div class="w-screen h-[800px] flex flex-col md:flex-row bg-gray-200 items-start animate-[fadein_2s_ease-in_1]">
+        <div class="w-screen h-[500px] flex flex-col md:flex-row bg-gray-200 items-start animate-[fadein_2s_ease-in_1]">
             <div class="relative px-4 mx-4 md:ml-8 mt-8 py-3 lg:w-2/5 bg-gray-100/50 rounded-lg">
                 <h2 class="font-bold text-xl">MÉDICO EN PLANTA</h2>
                 <br>
@@ -140,7 +140,26 @@
             <img class=" rounded-md md:w-2/5 mt-8" src="{{asset('img/trabajadores02.png')}}" alt="">
         </div>
     
-        
+        <div class="w-screen h-[800px] flex flex-col md:flex-row bg-gray-200 items-start animate-[fadein_2s_ease-in_1]">
+            <img class=" rounded-md md:w-2/5 mt-8" src="{{asset('img/laboratorio01.jpg')}}" alt="">
+            <div class="relative px-4 mx-4 md:ml-8 mt-8 py-3 lg:w-2/5 bg-gray-100/50 rounded-lg">
+                <h2 class="font-bold text-xl">SERVICIOS</h2>
+                <br><p>
+                Gracias a la incorporación de equipamiento tecnológico, en nuestro centro realizamos estudios complementarios de diagnóstico:
+                •	Laboratorio Toxicológico y otras determinaciones
+                •	Laboratorios clínicos de rutina 
+                •	Electrocardiograma y Ergometría 
+                •	Espirometria
+                •	Electroencefalograma 
+                •	Radiología 
+                •	Audiometría
+                •	Exámenes Psicotécnicos
+                •	Exámenes Psicométricos
+                •	Informe socio ambiental laboral
+                </p>
+            </div>
+            
+        </div>
     </body>
 </html>
         
