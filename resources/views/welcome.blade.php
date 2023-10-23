@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+{{-- <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="utf-8">
@@ -27,7 +27,7 @@
                             class="ml-2 h-16 inline-flex items-center gap-3 text-lg font-bold md:text-xl"
                         >
                             {{-- <div class="flex items-center justify-center w-20 h-20 rounded-lg shadow-lg border-y shadow-primary-700/20 bg-gradient-to-b from-primary-500 to-primary-600 border-t-primary-400 border-b-primary-700"
-                                > --}}
+                                >
                             <div class="w-36 flex items-center justify-center">
                                 <img class="rounded-md" src="{{asset('img/logo.jpg')}}" alt="Cimad">
                                
@@ -112,7 +112,8 @@
                 </div>
                 
             </header>
-        </div>
+        </div> --}}
+    <x-home>
         <div class="w-screen flex items-center justify-center animate-[fadein_2s_ease-in_1] shadow-md">
                     
             {{-- <img class="rounded-md w-full" src="{{asset('img/trabajadores01.jpg')}}" alt=""> --}}
@@ -221,8 +222,8 @@
             
         </div>
 
-
-<footer
+    </x-home>
+{{-- <footer
 class="flex flex-col items-center bg-neutral-200 text-center text-white dark:bg-neutral-600">
     <div class="container pt-9">
         <div class="mb-9 flex justify-center">
@@ -258,7 +259,7 @@ class="flex flex-col items-center bg-neutral-200 text-center text-white dark:bg-
                     clip-rule="evenodd" />
                 </svg>
             </a>
-            <a href="#" class="mr-9 text-neutral-800 dark:text-neutral-200">
+            <a href="https://instagram.com/cimadnqn?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" class="mr-9 text-neutral-800 dark:text-neutral-200">
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
                     class="h-4 w-4"
@@ -271,10 +272,10 @@ class="flex flex-col items-center bg-neutral-200 text-center text-white dark:bg-
             
             
         </div>
-    </div>
+    </div> --}}
 
     <!--Copyright section-->
-    <div
+    {{-- <div
     class="w-full bg-neutral-200 p-4 text-center text-neutral-700 dark:bg-neutral-700 dark:text-neutral-200">
     © 2023 Copyright:
     <a
@@ -299,7 +300,7 @@ class="flex flex-col items-center bg-neutral-200 text-center text-white dark:bg-
 
 
 
-</html>
+</html> --}}
         
         
   
