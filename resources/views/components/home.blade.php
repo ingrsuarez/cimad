@@ -91,7 +91,7 @@
                             <li class="w-full flex justify-center hover:bg-gray-50/20">
                                 <a
                                 class="transition relative h-20 inline-flex items-center text-gray-300 hover:text-white"
-                                href="#"
+                                href="#footer"
                                 >Contacto</a>
                             </li>
                             
@@ -145,12 +145,13 @@
 
 
         
-        <footer
+        <footer id="footer"
         class="flex flex-col items-center bg-neutral-200 text-center text-white dark:bg-neutral-600">
             <div class="container pt-9">
                 <div class="mb-9 flex justify-center">
 
-                    <a href="mailto:administracion@cimad.com.ar?subject=consulta desde la web" class="mr-9 text-neutral-800 dark:text-neutral-200">
+                    <a href="mailto:administracion@cimad.com.ar?subject=consulta desde la web" 
+                    class="mr-9 text-neutral-800 dark:text-neutral-200 animate-bounce">
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="20" height="20" viewBox="0 0 256 256" xml:space="preserve">
 
                             <defs>
@@ -218,7 +219,7 @@
             class="w-full bg-neutral-200 p-4 text-center text-neutral-700 dark:bg-neutral-700 dark:text-neutral-200">
             © 2023 Copyright:
             <a
-                class="float-right text-neutral-800 dark:text-neutral-400"
+                class="float-right mr-8 text-neutral-800 dark:text-neutral-400"
                 href="#"
                 >Rodrigo Suarez</a
             >
