@@ -150,7 +150,7 @@
             <div class="container pt-9">
                 <div class="mb-9 flex justify-center">
 
-                    <a href="mailto:administracion@cimad.com.ar" class="mr-9 text-neutral-800 dark:text-neutral-200">
+                    <a href="mailto:administracion@cimad.com.ar?subject=consulta desde la web" class="mr-9 text-neutral-800 dark:text-neutral-200">
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="20" height="20" viewBox="0 0 256 256" xml:space="preserve">
 
                             <defs>
