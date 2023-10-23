@@ -149,7 +149,8 @@
         class="flex flex-col items-center bg-neutral-200 text-center text-white dark:bg-neutral-600">
             <div class="container pt-9">
                 <div class="mb-9 flex justify-center">
-                    <a href="#" class="mr-9 text-neutral-800 dark:text-neutral-200">
+                    {{-- Facebook --}}
+                    <a href="https://www.facebook.com/profile.php?id=100072643261712&mibextid=LQQJ4d" class="mr-9 text-neutral-800 dark:text-neutral-200">
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
                             class="h-4 w-4"
@@ -181,7 +182,8 @@
                             clip-rule="evenodd" />
                         </svg>
                     </a>
-                    <a href="#" class="mr-9 text-neutral-800 dark:text-neutral-200">
+                    <a href="https://instagram.com/cimadnqn?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" class="mr-9 text-neutral-800 dark:text-neutral-200">
+                        {{-- Instagram --}}
                         <svg
                             xmlns="http://www.w3.org/2000/svg"
                             class="h-4 w-4"
